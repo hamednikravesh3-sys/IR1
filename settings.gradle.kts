@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "NVNavigation"
 include(":app")
+include(":flashcards")
